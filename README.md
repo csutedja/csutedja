@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d76aa5553501e3c30381d8?variant=dark" alt="roadmap.sh"/></a>](https://roadmap.sh/u/csutedja?roadmapId=java)
+[<img src="https://roadmap.sh/card/tall/66d76aa5553501e3c30381d8?variant=dark&v=1" alt="roadmap.sh"/>](https://roadmap.sh/u/csutedja?roadmapId=java)
 <!--
 **csutedja/csutedja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
